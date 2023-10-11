@@ -114,7 +114,13 @@ $$ H = SkillHit +\textup{max}(30, SkillHit) * (-0.5 + 1.0 / (1.0 +\textup{exp}(-
 
 $$ R = \textup{min}(100\%,H) * D / HP_2 $$ 和三个属性之间的关系。
 
-在这里我们规定了角色每个维度的值为0-20之间的整数，
+在这里我们规定了角色每个维度的值为0-20之间的整数，并且将角色的三个维度之和选取在30。
+
+<p align="center">
+    <img src="https://github.com/LC1332/Luotuo-Fighter/blob/main/figures/dmg_per_hp.png">
+</p>
+
+
 
 
 ## 技能伤害和命中率之间的关系
