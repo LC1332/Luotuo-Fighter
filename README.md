@@ -140,7 +140,7 @@ $$ H = SkillHit +\textup{max}(30, SkillHit) * (-0.5 + 1.0 / (1.0 +\textup{exp}(-
 
 我们希望游戏中角色的 $STR$, $VIT$ 和 $SPD$ 处在相对平衡的位置。这里我们研究角色一次攻击，对被攻击者血量的百分比影响，即研究
 
-$$ R = \textup{min}(100\%,H) * D / HP_2 $$ 
+$$ R = \textup{min}(100,H) * D / HP_2 $$ 
 
 和三个属性之间的关系。
 
