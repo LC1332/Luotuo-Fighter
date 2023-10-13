@@ -58,6 +58,12 @@ Just for Fun
 
 # 效果展示
 
+<p align="center">
+    <img src="https://github.com/LC1332/Luotuo-Fighter/blob/main/figures/BattleExample.jpg">
+</p>
+
+战斗描述由骆驼大乱斗生成，战斗画面需要用户自行脑补。或者输入DALLE3进行生成。
+
 ## 一个简单的战斗的例子
 
 ## 骆驼RPG的展示
