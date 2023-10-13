@@ -32,6 +32,7 @@ StoryTeller是做到一半的原计划，可以实现一些剧情的尝试和游
 |---|---|---|
 |骆驼大乱斗天梯| [临时链接](https://luotuo.sirly.cc/) | 百川期间的链接，现场前5+名我们请喝奶茶 |
 |骆驼大乱斗天梯| [![Huggingface Gradio](https://img.shields.io/static/v1?label=Demo&message=Huggingface%20Gradio&color=orange)](https://huggingface.co/spaces/silk-road/Luotuo-Fighter-GO) | 百川备用链接，现场前5+名我们请喝奶茶 |
+|骆驼大乱斗-魔搭 | [🤖魔搭](https://modelscope.cn/studios/Jyshen/Luotuo-Fighter-GO/summary) | 百川期间魔搭的版本 |
 |骆驼大乱斗HF | [![Huggingface Gradio](https://img.shields.io/static/v1?label=Demo&message=Huggingface%20Gradio&color=orange)](https://huggingface.co/spaces/silk-road/Luotuo-Fighter-GO) | 骆驼大乱斗，仅包含战斗引擎和天梯 |
 |骆驼RPG | | 一个带上数值成长的RPG版本 |
 |骆驼RPG-HF | | RPG版本的Hugging Face Demo |
