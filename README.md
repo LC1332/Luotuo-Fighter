@@ -38,6 +38,7 @@ StoryTeller是做到一半的原计划，可以实现一些剧情的尝试和游
 |骆驼RPG-HF | | RPG版本的Hugging Face Demo |
 |关卡生成 | | 用于生成骆驼RPG的关卡的prompt |
 |人物生成 | | 一个简易的人物生成代码，已经集成在大乱斗中 |
+|战斗视频| [B站链接](https://www.bilibili.com/video/BV1SN41147ae/) | 用DALLE3补全战斗画面后生成的视频 |
 
 ## 百川期间天梯规则
 
